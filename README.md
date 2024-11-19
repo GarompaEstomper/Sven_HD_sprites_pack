@@ -6,7 +6,7 @@
 
 - Sprites have been handpicked to resemble a bit more their original versions but in HD form.
 - Many of the weapon sprites have been fixed to resemble the actual weapons their represent
-- Opposing force weapon sprites (and others like the uzi), have fixed scanlines and effects for consistency
+- Opposing force weapon sprites (and others), have fixed scanlines and effects for consistency
 - HUD sprites now have Sven Co-op fonts
 
 
