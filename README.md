@@ -6,4 +6,4 @@ CREDITS (sorry if I missed someone or made a mistake, please let me know!):
 - ALEM (RPG sprite)
 - Garompa (fixing, and setup)
 - QuakerCraft (shotgun sprite)
-- The303 (xpark4.spr fix for the alien controller)
+- The303 (xspark4.spr fix for the alien controller)
