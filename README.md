@@ -6,8 +6,8 @@ for Sven Co-op 5.0+  modified by Garompa, as of 14/09/2024
 
 ## Links
 
-- [Discord]()
-- [ModDB]()
+- [Discord](https://discord.com/channels/170051548284583937/1308485279472029726)
+- [ModDB](https://www.moddb.com/mods/sven-co-op/addons/hd-fixed-sprites#downloadsform)
 - [GoogleDrive](https://drive.google.com/file/d/1Gy-kec49GCdEtgZhA4-RHspOslEZTTqD/view?usp=sharing)
 
 ## Description
