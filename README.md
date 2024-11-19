@@ -12,6 +12,8 @@ for Sven Co-op 5.0+  modified by Garompa, as of 14/09/2024
 
 ## Description
 
+Replaces hud and particle effects, handpicked to resemble the original designs in HD, and also fixing several inconsistencies and bugs.
+
 - Sprites have been handpicked to resemble a bit more their original versions but in HD form.
 - Many of the weapon sprites have been fixed to resemble the actual weapons their represent
 - Opposing force weapon sprites (and others), have fixed scanlines and effects for consistency
