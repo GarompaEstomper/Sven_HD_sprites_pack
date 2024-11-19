@@ -1,5 +1,5 @@
 # Sven Co-op Fixed Sprites pack
-for Sven Co-op 5.o+  modified by Garompa, as of 14/09/2024 
+for Sven Co-op 5.0+  modified by Garompa, as of 14/09/2024 
 
 ## Preview
 ![spritespreview](https://github.com/GarompaEstomper/Sven_HD_sprites_pack/blob/main/sprites.jpg)
