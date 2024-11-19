@@ -1,5 +1,5 @@
-== "Sven Co-op Fixed Sprites pack" == for Sven Co-op 5.x -- modified by Garompa
--- as of 14/09/2024 --
+ "Sven Co-op Fixed Sprites pack"  for Sven Co-op 5.x  modified by Garompa
+ as of 14/09/2024 
 =======================================================================
 
 
