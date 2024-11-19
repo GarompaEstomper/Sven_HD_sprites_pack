@@ -2,7 +2,7 @@
 for Sven Co-op 5.o+  modified by Garompa, as of 14/09/2024 
 
 ## Preview
-!(https://github.com/GarompaEstomper/Sven_HD_sprites_pack/blob/main/sprites.jpg)
+![spritespreview](https://github.com/GarompaEstomper/Sven_HD_sprites_pack/blob/main/sprites.jpg)
 
 ## Links
 
